@@ -13,3 +13,6 @@ div{
 .p{
     text-align: justify;
 }
+:any-link{
+    text-decoration: none;
+}
